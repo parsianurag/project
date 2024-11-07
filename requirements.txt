@@ -14,3 +14,4 @@ uvloop
 streamlit
 joblib
 numpy
+skops
